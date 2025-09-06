@@ -7,12 +7,15 @@ Com o PlanTracker você pode gerenciar todas as suas assinaturas, planos e servi
 Aviso: Esse projeto está em desenvolvimento e ainda não estará hospedado publicamente.
 
 Entre as tecnologias utilizadas nesse projeto estarão:
+
 Front-end:
 - [Next.js](https://nextjs.org/docs)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite)
 - [Framer Motion](https://motion.dev/docs)
 - [Recharts](https://recharts.org/en-US)
+
 Back-end:
 - [Node.js Express](https://expressjs.com/)
+
 Banco de Dados:
 - [PostgreSQL](https://www.postgresql.org/docs/current/)
